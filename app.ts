@@ -1,2 +1,2 @@
-console.log('hello this is a typescript...');
+console.log('hello this is a typescript');
 
