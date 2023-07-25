@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "learnign basic of typescript",
+  "main": "app.js",
+  "scripts": {
+    "test":"echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": "https://github.com/Navid61/ts2023_basic.git",
+  "author": "Navid Taheri",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
